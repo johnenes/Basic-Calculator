@@ -1,2 +1,2 @@
 # Basic-Calculator
-the Basic Calculator have the ability to add, substract , multiply and divide. 
+Simple to perform additions, substraction , multiplication and division. 
